@@ -117,7 +117,7 @@ AAEBAa35AwaPggPV0QP5xgXxoQb2oQbGsgcMzge1uQPQ4QOYkgWrkgWVygbXlweEmQekrQfWvgfZvgfP
 
 ---
 
-## 🐍 详细安装（含 pip 与清华镜像）
+## 🐍 详细安装（含 pip 与清华镜像，适合新手，老手建议虚拟环境）
 
 > 需要 **Python 3.12**（自带 pip）。以下从零说明如何安装 Python、装 pip，并快速装好本项目依赖。
 
