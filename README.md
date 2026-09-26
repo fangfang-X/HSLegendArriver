@@ -42,7 +42,7 @@
 | 海盗瞎 | 已实测支持 | — |
 
 ## 交流方式
-<img width="1310" height="2329" alt="3908d908d6585d580f71f22173efc8bb" src="https://github.com/user-attachments/assets/c5368bbc-d785-46b6-9501-563eaf2feac8" />
+<img width="131" height="233" alt="3908d908d6585d580f71f22173efc8bb" src="https://github.com/user-attachments/assets/c5368bbc-d785-46b6-9501-563eaf2feac8" />
 
 
 ## ⚠️ 先看两条最容易忽略的配置
